@@ -51,7 +51,9 @@ const Header = () => {
         </div>
       </div>
 
-      {/* Right */}
+      {/* Right  */}
+       {/* from web editor commit  */}
+      
       <div className="flex items-center justify-end ">
         {/* Profile pic  */}
         <Image
